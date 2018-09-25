@@ -1,1 +1,24 @@
 /* PHASE 9: Forms */
+.container {
+  display: flex;
+    background-color: #eee;
+}
+
+.post-form {
+  min-width: 300px;
+  margin: 10px;
+
+}
+
+input {
+  height: inherit;
+  width: inherit;
+  border: 1px solid black;
+  border-radius: 5px;
+    background-color: white;
+}
+textarea {
+  border: 1px solid black;
+  border-radius: 5px;
+    background-color: white;
+}
